@@ -1,0 +1,221 @@
+模型内预测：
+
+100 most important features:
+{'high': 464, 'feature': 'great', 'low': 40}
+{'high': 79, 'feature': 'excel', 'low': 1}
+{'high': 1065, 'feature': 'trump', 'low': 284}
+{'high': 133, 'feature': 'love', 'low': 8}
+{'high': 18, 'feature': 'hate', 'low': 16}
+{'high': 4, 'feature': 'wast', 'low': 21}
+{'high': 2, 'feature': 'terribl', 'low': 9}
+{'high': 178, 'feature': 'man', 'low': 17}
+{'high': 509, 'feature': 'america', 'low': 88}
+{'high': 190, 'feature': 'good', 'low': 38}
+{'high': 68, 'feature': 'recommend', 'low': 3}
+{'high': 45, 'feature': 'money', 'low': 37}
+{'high': 133, 'feature': 'think', 'low': 32}
+{'high': 1, 'feature': 'garbag', 'low': 6}
+{'high': 41, 'feature': 'never', 'low': 29}
+{'high': 93, 'feature': 'dont', 'low': 48}
+{'high': 13, 'feature': 'racist', 'low': 12}
+{'high': 313, 'feature': 'make', 'low': 69}
+{'high': 0, 'feature': 'suck', 'low': 4}
+{'high': 2, 'feature': 'poor', 'low': 12}
+{'high': 96, 'feature': 'right', 'low': 38}
+{'high': 172, 'feature': 'need', 'low': 42}
+{'high': 224, 'feature': 'like', 'low': 85}
+{'high': 47, 'feature': 'write', 'low': 26}
+{'high': 1, 'feature': 'joke', 'low': 7}
+{'high': 25, 'feature': 'noth', 'low': 23}
+{'high': 191, 'feature': 'get', 'low': 52}
+{'high': 65, 'feature': 'written', 'low': 32}
+{'high': 85, 'feature': 'sens', 'low': 5}
+{'high': 3, 'feature': 'content', 'low': 9}
+{'high': 11, 'feature': 'gift', 'low': 6}
+{'high': 137, 'feature': 'plan', 'low': 27}
+{'high': 150, 'feature': 'mr', 'low': 20}
+{'high': 294, 'feature': 'donald', 'low': 64}
+{'high': 3, 'feature': 'writer', 'low': 6}
+{'high': 22, 'feature': 'enough', 'low': 10}
+{'high': 20, 'feature': 'didnt', 'low': 14}
+{'high': 54, 'feature': 'person', 'low': 32}
+{'high': 169, 'feature': 'american', 'low': 43}
+{'high': 230, 'feature': 'countri', 'low': 50}
+{'high': 2, 'feature': 'aw', 'low': 4}
+{'high': 29, 'feature': 'page', 'low': 9}
+{'high': 34, 'feature': 'truth', 'low': 3}
+{'high': 57, 'feature': 'enjoy', 'low': 6}
+{'high': 87, 'feature': 'well', 'low': 21}
+{'high': 35, 'feature': 'amaz', 'low': 3}
+{'high': 121, 'feature': 'just', 'low': 53}
+{'high': 68, 'feature': 'easi', 'low': 8}
+{'high': 199, 'feature': 'presid', 'low': 45}
+{'high': 22, 'feature': 'pay', 'low': 30}
+{'high': 107, 'feature': 'thing', 'low': 33}
+{'high': 352, 'feature': 'will', 'low': 85}
+{'high': 52, 'feature': 'everyon', 'low': 9}
+{'high': 10, 'feature': 'sad', 'low': 6}
+{'high': 10, 'feature': 'paper', 'low': 6}
+{'high': 88, 'feature': 'idea', 'low': 40}
+{'high': 57, 'feature': 'point', 'low': 18}
+{'high': 8, 'feature': 'hand', 'low': 16}
+{'high': 138, 'feature': 'media', 'low': 18}
+{'high': 9, 'feature': 'probabl', 'low': 16}
+{'high': 21, 'feature': 'fantast', 'low': 0}
+{'high': 0, 'feature': 'terrribl', 'low': 1}
+{'high': 1, 'feature': 'univers', 'low': 7}
+{'high': 85, 'feature': 'understand', 'low': 17}
+{'high': 17, 'feature': 'bad', 'low': 14}
+{'high': 33, 'feature': 'bought', 'low': 11}
+{'high': 24, 'feature': 'star', 'low': 15}
+{'high': 156, 'feature': 'know', 'low': 37}
+{'high': 3, 'feature': 'ghost', 'low': 5}
+{'high': 10, 'feature': 'allow', 'low': 10}
+{'high': 136, 'feature': 'say', 'low': 52}
+{'high': 61, 'feature': 'must', 'low': 8}
+{'high': 37, 'feature': 'worth', 'low': 5}
+{'high': 0, 'feature': 'haramb', 'low': 1}
+{'high': 37, 'feature': 'mind', 'low': 12}
+{'high': 86, 'feature': 'chapter', 'low': 44}
+{'high': 138, 'feature': 'one', 'low': 59}
+{'high': 71, 'feature': 'inform', 'low': 8}
+{'high': 200, 'feature': 'want', 'low': 35}
+{'high': 53, 'feature': 'real', 'low': 25}
+{'high': 11, 'feature': 'given', 'low': 5}
+{'high': 16, 'feature': 'rate', 'low': 18}
+{'high': 43, 'feature': 'word', 'low': 21}
+{'high': 9, 'feature': 'self', 'low': 6}
+{'high': 15, 'feature': 'choic', 'low': 10}
+{'high': 24, 'feature': 'anyth', 'low': 11}
+{'high': 0, 'feature': 'mein', 'low': 2}
+{'high': 65, 'feature': 'crippl', 'low': 29}
+{'high': 9, 'feature': 'came', 'low': 7}
+{'high': 93, 'feature': 'polici', 'low': 21}
+{'high': 5, 'feature': 'serv', 'low': 6}
+{'high': 45, 'feature': 'true', 'low': 11}
+{'high': 96, 'feature': 'vote', 'low': 23}
+{'high': 31, 'feature': 'thank', 'low': 6}
+{'high': 121, 'feature': 'go', 'low': 36}
+{'high': 173, 'feature': 'peopl', 'low': 63}
+{'high': 81, 'feature': 'interest', 'low': 20}
+{'high': 94, 'feature': 'way', 'low': 31}
+{'high': 6, 'feature': 'cruz', 'low': 6}
+{'high': 81, 'feature': 'busi', 'low': 22}
+
+Accurancy: 0.992799279928
+
+Confusion Matrix:
+[1085, 15]
+[1, 1121]
+
+模型外预测：
+
+Epoch: 1
+
+100 most important features:
+great excel hate trump wast love terribl man america recommend garbag good money never think make racist dont suck poor gift like joke right sens plan need noth write mr enough get easi writer person sad didnt written donald aw eww enjoy terrribl pay vote content amaz univers will just countri page well mind allow presid hand thing media truth serv bought chapter idea point facist know came rate instead bad ghost star ad say polici guy paper fantast american can support learn one understand peopl mein real true heard un word want worth choic probabl given crippl even realli 
+
+Accurancy: 0.995495495495
+
+Confusion Matrix:
+[123, 1]
+[0, 98]
+
+Epoch: 2
+
+100 most important features:
+great excel love trump hate wast terribl man recommend america money think garbag racist good suck make never dont poor like right written sens enough write content gift plan noth just writer need didnt amaz mr get joke donald enjoy person well countri page truth media pay fantast univers easi mind presid serv thing will idea understand allow worth sad aw hand probabl must point paper know given ya self everyon star say inform want chapter ghost realli guy thank fact un ad real came american mein bad vote facist hes way bought crippl simpl one even anyth can learn 
+
+Accurancy: 0.959459459459
+
+Confusion Matrix:
+[101, 4]
+[5, 112]
+
+Epoch: 3
+
+100 most important features:
+great excel hate terribl trump wast love man america garbag think recommend racist never good money poor suck dont make gift joke content write like sad easi sens eww need didnt terrribl aw right written truth plan hand noth donald get mr enough person will just thing well amaz mind bought haramb idea writer chapter countri allow pay given paper heard page enjoy facist presid fantast star univers ghost full worth inform say must probabl real media rate can un self choic know everyon american vote crippl simpl want bad understand true point fact anyth gag cruz instead free serv 
+
+Accurancy: 0.990990990991
+
+Confusion Matrix:
+[110, 2]
+[0, 110]
+
+Epoch: 4
+
+100 most important features:
+great excel hate trump terribl wast love man america money recommend good garbag racist dont make think never poor suck get right need noth write like sens mr joke enough american easi gift donald just content plan sad writer countri pay truth didnt written eww aw person idea will amaz media enjoy univers well presid mind crippl word chapter fantast must thing haramb serv point ghost page star understand say real use given everyon one bought ad paper choic bad gag allow fact thank simpl next hand probabl know instead guy can realli came want even cruz politician mein put 
+
+Accurancy: 0.977477477477
+
+Confusion Matrix:
+[107, 2]
+[3, 110]
+
+Epoch: 5
+
+100 most important features:
+great excel trump love hate terribl wast man america money good recommend never garbag think racist poor suck dont write like make need noth gift get right enjoy just mr donald written pay sens truth joke content countri plan person didnt writer amaz well will easi everyon idea must enough serv presid understand probabl american chapter media point allow worth page crippl aw vote mind thing given came say hand star want rate know word paper sad way bought true inform can fact ghost interest best mein lie tri cruz littl next heard fantast campaign choic simpl one self ad 
+
+Accurancy: 0.995495495495
+
+Confusion Matrix:
+[102, 1]
+[0, 119]
+
+Epoch: 6
+
+100 most important features:
+great excel trump love hate man terribl wast america good think recommend never poor racist dont money make garbag like suck need right mr noth write sens get written just joke content amaz gift donald enjoy easi american idea everyon plan didnt enough well point countri pay page aw univers person understand truth thing fantast must presid probabl writer media will chapter ghost littl mind serv vote say anyth paper worth rate given terrribl hand bought true inform bad sad learn want know star one politician real mein realli cruz support full campaign better lay thank allow word came finish 
+
+Accurancy: 0.981981981982
+
+Confusion Matrix:
+[94, 2]
+[2, 124]
+
+Epoch: 7
+
+100 most important features:
+great excel trump love hate wast terribl man america good money dont make recommend racist garbag think poor never right like need sens write suck content get gift noth just donald joke truth enjoy mr pay written plan writer page didnt enough univers presid american paper fantast everyon countri person idea amaz aw easi well chapter thing will vote bad allow terrribl worth serv ghost probabl say support bought inform know word hand want crippl cruz point real media must next can understand given one interest mind star guy learn self instead rate busi thank fact realli insight even true 
+
+Accurancy: 0.963963963964
+
+Confusion Matrix:
+[106, 0]
+[8, 108]
+
+Epoch: 8
+
+100 most important features:
+great excel trump love terribl hate wast man america money recommend good think dont garbag racist never poor suck make like sens right need write noth joke plan gift sad donald mr enough easi american pay person content writer written page get well terrribl enjoy just eww countri didnt truth vote understand idea presid must aw amaz ya chapter will bad hand paper thing fantast media word mind learn know bought serv allow everyon given rate ghost probabl univers point worth want came fact one cruz say can anyth gag crippl realli instead real time busi thank mein still ad 
+
+Accurancy: 0.977477477477
+
+Confusion Matrix:
+[105, 2]
+[3, 112]
+
+Epoch: 9
+
+100 most important features:
+great excel hate trump wast love terribl man recommend america think racist suck poor good garbag money dont make never sens need content like right joke write written noth writer plan enough just sad person pay get american gift donald idea amaz easi countri well univers didnt mr enjoy eww everyon will presid ghost given truth aw haramb serv paper hand rate allow understand chapter fantast thing page bought ad worth came must un know media want word vote say one probabl anyth fact star self stink polici mein even thank simpl inform interest mind crippl time best guy realli 
+
+Accurancy: 0.990990990991
+
+Confusion Matrix:
+[123, 1]
+[1, 97]
+
+Epoch: 10
+
+100 most important features:
+great excel trump love wast hate man terribl recommend good racist america money never garbag dont think right poor make suck need sens get write like joke noth mr content gift just plan written american donald didnt idea writer enjoy person will easi pay countri well paper enough mind univers media aw page point everyon sad presid probabl say ghost truth chapter bad fantast know allow worth serv inform star actual haramb bought hand interest best amaz crippl self thing lie can cruz one instead ad true rate donat pretti full understand real given littl chariti polici vote must mein 
+
+Accurancy: 0.959459459459
+
+Confusion Matrix:
+[113, 0]
+[9, 100]

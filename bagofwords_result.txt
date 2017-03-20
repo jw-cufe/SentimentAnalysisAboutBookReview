@@ -1,0 +1,221 @@
+模型内预测：
+
+100 most important features:
+{'blue': 158, 'great': 1349, 'feature': 'trump'}
+{'blue': 157, 'great': 504, 'feature': 'great'}
+{'blue': 26, 'great': 358, 'feature': 'donald'}
+{'blue': 712, 'great': 44, 'feature': 'hillari'}
+{'blue': 22, 'great': 195, 'feature': 'man'}
+{'blue': 18, 'great': 80, 'feature': 'excel'}
+{'blue': 224, 'great': 597, 'feature': 'america'}
+{'blue': 185, 'great': 228, 'feature': 'good'}
+{'blue': 457, 'great': 25, 'feature': 'clinton'}
+{'blue': 62, 'great': 141, 'feature': 'love'}
+{'blue': 356, 'great': 41, 'feature': 'lie'}
+{'blue': 27, 'great': 170, 'feature': 'mr'}
+{'blue': 4, 'great': 107, 'feature': 'hes'}
+{'blue': 17, 'great': 76, 'feature': 'easi'}
+{'blue': 119, 'great': 244, 'feature': 'presid'}
+{'blue': 217, 'great': 2, 'feature': 'delet'}
+{'blue': 220, 'great': 25, 'feature': 'wast'}
+{'blue': 27, 'great': 63, 'feature': 'enjoy'}
+{'blue': 30, 'great': 156, 'feature': 'media'}
+{'blue': 307, 'great': 382, 'feature': 'make'}
+{'blue': 121, 'great': 5, 'feature': 'bore'}
+{'blue': 264, 'great': 82, 'feature': 'money'}
+{'blue': 64, 'great': 101, 'feature': 'interest'}
+{'blue': 185, 'great': 14, 'feature': 'togeth'}
+{'blue': 241, 'great': 39, 'feature': 'star'}
+{'blue': 144, 'great': 164, 'feature': 'plan'}
+{'blue': 37, 'great': 38, 'feature': 'amaz'}
+{'blue': 429, 'great': 174, 'feature': 'just'}
+{'blue': 175, 'great': 280, 'feature': 'countri'}
+{'blue': 3, 'great': 94, 'feature': 'crippl'}
+{'blue': 27, 'great': 90, 'feature': 'sens'}
+{'blue': 190, 'great': 34, 'feature': 'buy'}
+{'blue': 229, 'great': 0, 'feature': 'kain'}
+{'blue': 169, 'great': 38, 'feature': 'page'}
+{'blue': 70, 'great': 79, 'feature': 'inform'}
+{'blue': 141, 'great': 11, 'feature': 'stronger'}
+{'blue': 103, 'great': 5, 'feature': 'woman'}
+{'blue': 421, 'great': 309, 'feature': 'like'}
+{'blue': 281, 'great': 141, 'feature': 'dont'}
+{'blue': 27, 'great': 58, 'feature': 'guy'}
+{'blue': 8, 'great': 21, 'feature': 'fantast'}
+{'blue': 106, 'great': 134, 'feature': 'right'}
+{'blue': 101, 'great': 5, 'feature': 'propaganda'}
+{'blue': 353, 'great': 197, 'feature': 'one'}
+{'blue': 180, 'great': 144, 'feature': 'realli'}
+{'blue': 194, 'great': 119, 'feature': 'vote'}
+{'blue': 119, 'great': 16, 'feature': 'paper'}
+{'blue': 137, 'great': 31, 'feature': 'bad'}
+{'blue': 424, 'great': 437, 'feature': 'will'}
+{'blue': 52, 'great': 61, 'feature': 'everyon'}
+{'blue': 88, 'great': 6, 'feature': 'horribl'}
+{'blue': 136, 'great': 212, 'feature': 'american'}
+{'blue': 92, 'great': 11, 'feature': 'terribl'}
+{'blue': 234, 'great': 97, 'feature': 'written'}
+{'blue': 169, 'great': 214, 'feature': 'need'}
+{'blue': 282, 'great': 156, 'feature': 'time'}
+{'blue': 332, 'great': 243, 'feature': 'get'}
+{'blue': 192, 'great': 82, 'feature': 'use'}
+{'blue': 70, 'great': 98, 'feature': 'tell'}
+{'blue': 70, 'great': 1, 'feature': 'fiction'}
+{'blue': 176, 'great': 63, 'feature': 'tri'}
+{'blue': 42, 'great': 110, 'feature': 'issu'}
+{'blue': 36, 'great': 56, 'feature': 'true'}
+{'blue': 291, 'great': 242, 'feature': 'can'}
+{'blue': 3, 'great': 6, 'feature': 'maga'}
+{'blue': 21, 'great': 41, 'feature': 'insight'}
+{'blue': 51, 'great': 94, 'feature': 'clear'}
+{'blue': 57, 'great': 96, 'feature': 'best'}
+{'blue': 98, 'great': 3, 'feature': 'bezo'}
+{'blue': 107, 'great': 14, 'feature': 'negat'}
+{'blue': 90, 'great': 0, 'feature': 'tim'}
+{'blue': 201, 'great': 157, 'feature': 'go'}
+{'blue': 73, 'great': 5, 'feature': 'worst'}
+{'blue': 88, 'great': 1, 'feature': 'email'}
+{'blue': 125, 'great': 108, 'feature': 'well'}
+{'blue': 212, 'great': 99, 'feature': 'even'}
+{'blue': 6, 'great': 13, 'feature': 'enlighten'}
+{'blue': 56, 'great': 102, 'feature': 'understand'}
+{'blue': 94, 'great': 128, 'feature': 'idea'}
+{'blue': 67, 'great': 1, 'feature': 'deplor'}
+{'blue': 12, 'great': 21, 'feature': 'simpl'}
+{'blue': 169, 'great': 188, 'feature': 'say'}
+{'blue': 96, 'great': 7, 'feature': 'garbag'}
+{'blue': 131, 'great': 50, 'feature': 'ever'}
+{'blue': 47, 'great': 110, 'feature': 'problem'}
+{'blue': 63, 'great': 71, 'feature': 'recommend'}
+{'blue': 87, 'great': 37, 'feature': 'truth'}
+{'blue': 38, 'great': 103, 'feature': 'busi'}
+{'blue': 82, 'great': 3, 'feature': 'liar'}
+{'blue': 21, 'great': 51, 'feature': 'common'}
+{'blue': 26, 'great': 17, 'feature': 'gift'}
+{'blue': 157, 'great': 48, 'feature': 'noth'}
+{'blue': 182, 'great': 193, 'feature': 'know'}
+{'blue': 68, 'great': 5, 'feature': 'trash'}
+{'blue': 153, 'great': 83, 'feature': 'im'}
+{'blue': 94, 'great': 14, 'feature': 'poor'}
+{'blue': 120, 'great': 51, 'feature': 'cant'}
+{'blue': 69, 'great': 3, 'feature': 'toilet'}
+{'blue': 247, 'great': 236, 'feature': 'peopl'}
+{'blue': 48, 'great': 56, 'feature': 'high'}
+
+Accurancy: 0.993586454592
+
+Confusion Matrix:
+[2547, 9]
+[16, 1326]
+
+模型外预测：
+
+Epoch: 1
+
+100 most important features:
+trump great donald hillari man excel america good clinton mr lie love easi hes delet presid media wast make enjoy bore money buy crippl interest plan just amaz togeth fantast star page sens kain countri right everyon like woman guy dont one vote paper inform american best propaganda bad will insight horribl stronger get well time realli true terribl clear written bezo use need can tell negat tri issu worst even garbag truth liar fiction simpl spot email tim deplor go ever recommend understand idea say know peopl noth trash gift toilet chang think maga awesom high see full polit 
+
+Accurancy: 0.884318766067
+
+Confusion Matrix:
+[220, 25]
+[20, 124]
+
+Epoch: 2
+
+100 most important features:
+trump great donald hillari man excel america good mr clinton lie love easi hes presid delet wast enjoy interest crippl make star money plan togeth amaz bore media page countri kain buy right just guy inform like stronger woman dont sens paper fantast true one will realli american bad horribl well best everyon written clear terribl time tell insight need simpl propaganda can maga get idea enlighten email use bezo go learn tri vote issu tim trash garbag peopl recommend fiction even understand say worst common know problem think truth liar negat ever believ poor want worth polici thought j 
+
+Accurancy: 0.876606683805
+
+Confusion Matrix:
+[222, 18]
+[30, 119]
+
+Epoch: 3
+
+100 most important features:
+trump great donald hillari man excel america good clinton love mr lie hes presid delet easi media wast money enjoy bore interest make plan togeth inform crippl buy kain fantast star just right page countri like paper vote dont woman stronger sens one propaganda will realli time guy american tell use horribl bad maga amaz true need everyon written idea can clear get well worst go tri bezo terribl insight negat spot problem recommend issu liar even tim deplor best email trash learn truth gift common noth fiction garbag want ever peopl simpl think understand know say toilet full believ 
+
+Accurancy: 0.881748071979
+
+Confusion Matrix:
+[226, 28]
+[18, 117]
+
+Epoch: 4
+
+100 most important features:
+trump great donald hillari man america excel clinton good lie love mr hes easi delet presid wast enjoy make media bore money crippl togeth interest star page plan just buy kain countri inform sens fantast dont guy amaz one vote realli woman stronger right like propaganda everyon will american horribl paper issu need time fiction terribl deplor bad clear best written maga worst get use can well true tell insight truth tri idea liar problem bezo email enlighten go peopl ever negat even understand say trash cant garbag simpl tim awesom spot believ wonder polit know poor write busi learn 
+
+Accurancy: 0.902313624679
+
+Confusion Matrix:
+[256, 21]
+[17, 95]
+
+Epoch: 5
+
+100 most important features:
+trump great donald hillari man excel america clinton good love lie mr hes easi presid delet wast media make bore enjoy money amaz togeth countri star inform sens page just interest buy plan crippl dont everyon kain propaganda one guy stronger fantast paper vote like woman horribl need realli terribl use right will time ever american insight true written issu bad best can maga bezo get fiction recommend simpl enlighten worst go tri well tim idea truth clear tell garbag peopl even email poor liar believ say toilet crap problem understand think trash want im noth deplor negat high quick 
+
+Accurancy: 0.87146529563
+
+Confusion Matrix:
+[241, 25]
+[25, 98]
+
+Epoch: 6
+
+100 most important features:
+trump great donald hillari man america excel good clinton love mr lie easi delet hes presid enjoy wast money media make bore interest togeth crippl page kain countri amaz just star plan dont buy inform woman right like paper one sens guy stronger tell insight vote realli use propaganda fantast will terribl bad best everyon horribl time american bezo tri get well idea written deplor tim fiction understand enlighten negat garbag can spot go im need simpl issu clear poor even recommend say true truth believ ever think gift worst crap maga peopl cant trash email know noth chang common 
+
+Accurancy: 0.881748071979
+
+Confusion Matrix:
+[226, 25]
+[21, 117]
+
+Epoch: 7
+
+100 most important features:
+trump great donald hillari man america excel clinton good love lie mr easi hes presid delet enjoy media money wast interest bore make togeth star plan amaz crippl page inform just countri buy vote realli like stronger dont everyon american sens fantast paper woman kain propaganda right horribl true guy tell maga will one terribl written best bezo bad issu time well use can need fiction idea get enlighten go peopl clear deplor ever even understand insight tri truth spot worst say poor think cant common email tim learn believ worth im want garbag gift problem trash awesom toilet noth 
+
+Accurancy: 0.879177377892
+
+Confusion Matrix:
+[218, 18]
+[29, 124]
+
+Epoch: 8
+
+100 most important features:
+trump great donald hillari excel man america clinton lie good mr love easi delet hes presid media enjoy wast make money bore togeth just star plan interest crippl kain buy inform amaz page propaganda dont one like everyon countri realli woman bad vote stronger american fantast paper terribl right sens horribl will written time use well bezo email tri idea can get even go insight tim true worst guy garbag need problem deplor fiction issu tell clear gift poor say simpl high recommend enlighten negat noth maga ever peopl busi full best drivel cant common trash awesom polit give chang 
+
+Accurancy: 0.910025706941
+
+Confusion Matrix:
+[241, 18]
+[17, 113]
+
+Epoch: 9
+
+100 most important features:
+trump great donald hillari excel america man love good clinton lie mr easi delet hes presid enjoy wast media bore make togeth money interest amaz star inform buy plan page fantast crippl just guy countri everyon sens dont propaganda stronger realli vote kain one paper like woman bad horribl use terribl will american clear right maga tri need get worst garbag written best bezo insight can go tell issu spot time true well fiction deplor email im idea gift ever negat peopl even truth recommend problem think understand liar want say believ enlighten trash know cant toilet greatest couldnt poor 
+
+Accurancy: 0.892030848329
+
+Confusion Matrix:
+[241, 20]
+[22, 106]
+
+Epoch: 10
+
+100 most important features:
+trump great donald hillari man excel america clinton good lie mr hes love delet presid easi wast enjoy make media interest money bore togeth countri amaz star plan crippl buy inform just guy kain page american dont like stronger woman sens one vote will fantast paper terribl realli bad true right propaganda time horribl maga get need email fiction bezo insight use go tri best clear idea liar simpl enlighten can written everyon worst ever even tim deplor learn greatest understand spot say negat recommend im truth problem garbag well want cant high wonder know noth hope peopl racist polici 
+
+Accurancy: 0.899742930591
+
+Confusion Matrix:
+[244, 18]
+[21, 106]

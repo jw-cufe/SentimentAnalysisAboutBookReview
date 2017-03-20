@@ -1,0 +1,221 @@
+模型内预测：
+
+100 most important features:
+{'high': 62, 'feature': 'great', 'low': 95}
+{'high': 59, 'feature': 'plan', 'low': 85}
+{'high': 20, 'feature': 'troll', 'low': 6}
+{'high': 9, 'feature': 'lie', 'low': 347}
+{'high': 21, 'feature': 'love', 'low': 41}
+{'high': 52, 'feature': 'polici', 'low': 82}
+{'high': 12, 'feature': 'excel', 'low': 6}
+{'high': 15, 'feature': 'inspir', 'low': 19}
+{'high': 17, 'feature': 'amaz', 'low': 20}
+{'high': 9, 'feature': 'money', 'low': 255}
+{'high': 4, 'feature': 'wast', 'low': 216}
+{'high': 7, 'feature': 'fantast', 'low': 1}
+{'high': 39, 'feature': 'good', 'low': 146}
+{'high': 30, 'feature': 'support', 'low': 97}
+{'high': 24, 'feature': 'inform', 'low': 46}
+{'high': 39, 'feature': 'trump', 'low': 119}
+{'high': 13, 'feature': 'must', 'low': 58}
+{'high': 31, 'feature': 'detail', 'low': 25}
+{'high': 2, 'feature': 'terrif', 'low': 0}
+{'high': 67, 'feature': 'make', 'low': 240}
+{'high': 124, 'feature': 'hillari', 'low': 588}
+{'high': 3, 'feature': 'jail', 'low': 16}
+{'high': 10, 'feature': 'easi', 'low': 7}
+{'high': 71, 'feature': 'peopl', 'low': 176}
+{'high': 11, 'feature': 'sad', 'low': 43}
+{'high': 3, 'feature': 'bore', 'low': 118}
+{'high': 12, 'feature': 'five', 'low': 10}
+{'high': 35, 'feature': 'give', 'low': 156}
+{'high': 18, 'feature': 'understand', 'low': 38}
+{'high': 42, 'feature': 'star', 'low': 199}
+{'high': 44, 'feature': 'see', 'low': 113}
+{'high': 68, 'feature': 'can', 'low': 223}
+{'high': 17, 'feature': 'wonder', 'low': 38}
+{'high': 69, 'feature': 'will', 'low': 355}
+{'high': 53, 'feature': 'just', 'low': 376}
+{'high': 4, 'feature': 'die', 'low': 15}
+{'high': 76, 'feature': 'clinton', 'low': 381}
+{'high': 67, 'feature': 'like', 'low': 354}
+{'high': 1, 'feature': 'loot', 'low': 1}
+{'high': 0, 'feature': 'fiction', 'low': 70}
+{'high': 52, 'feature': 'get', 'low': 280}
+{'high': 9, 'feature': 'secretari', 'low': 13}
+{'high': 4, 'feature': 'awesom', 'low': 4}
+{'high': 23, 'feature': 'dont', 'low': 258}
+{'high': 41, 'feature': 'america', 'low': 183}
+{'high': 36, 'feature': 'countri', 'low': 139}
+{'high': 11, 'feature': 'run', 'low': 77}
+{'high': 1, 'feature': 'horribl', 'low': 87}
+{'high': 16, 'feature': 'show', 'low': 38}
+{'high': 2, 'feature': 'terribl', 'low': 90}
+{'high': 1, 'feature': 'garbag', 'low': 95}
+{'high': 15, 'feature': 'found', 'low': 90}
+{'high': 19, 'feature': 'delet', 'low': 198}
+{'high': 23, 'feature': 'buy', 'low': 167}
+{'high': 45, 'feature': 'one', 'low': 308}
+{'high': 9, 'feature': 'verifi', 'low': 6}
+{'high': 8, 'feature': 'voter', 'low': 20}
+{'high': 8, 'feature': 'noth', 'low': 149}
+{'high': 2, 'feature': 'propaganda', 'low': 99}
+{'high': 14, 'feature': 'talk', 'low': 39}
+{'high': 4, 'feature': 'greatest', 'low': 3}
+{'high': 36, 'feature': 'kain', 'low': 193}
+{'high': 34, 'feature': 'go', 'low': 167}
+{'high': 47, 'feature': 'want', 'low': 193}
+{'high': 1, 'feature': 'reviewkain', 'low': 0}
+{'high': 28, 'feature': 'right', 'low': 78}
+{'high': 26, 'feature': 'help', 'low': 90}
+{'high': 1, 'feature': 'super', 'low': 6}
+{'high': 16, 'feature': 'new', 'low': 73}
+{'high': 24, 'feature': 'better', 'low': 98}
+{'high': 5, 'feature': 'laugh', 'low': 15}
+{'high': 27, 'feature': 'written', 'low': 207}
+{'high': 2, 'feature': 'frighten', 'low': 4}
+{'high': 23, 'feature': 'im', 'low': 130}
+{'high': 8, 'feature': 'clintonkain', 'low': 11}
+{'high': 33, 'feature': 'time', 'low': 249}
+{'high': 25, 'feature': 'tim', 'low': 65}
+{'high': 1, 'feature': 'prospect', 'low': 0}
+{'high': 20, 'feature': 'real', 'low': 55}
+{'high': 8, 'feature': 'saw', 'low': 14}
+{'high': 7, 'feature': 'messag', 'low': 8}
+{'high': 26, 'feature': 'realli', 'low': 154}
+{'high': 14, 'feature': 'differ', 'low': 43}
+{'high': 21, 'feature': 'tri', 'low': 155}
+{'high': 15, 'feature': 'thank', 'low': 33}
+{'high': 28, 'feature': 'well', 'low': 97}
+{'high': 22, 'feature': 'actual', 'low': 83}
+{'high': 13, 'feature': 'bad', 'low': 124}
+{'high': 11, 'feature': 'instead', 'low': 49}
+{'high': 3, 'feature': 'approv', 'low': 4}
+{'high': 28, 'feature': 'presid', 'low': 91}
+{'high': 7, 'feature': 'rodham', 'low': 7}
+{'high': 17, 'feature': 'didnt', 'low': 98}
+{'high': 4, 'feature': 'cure', 'low': 3}
+{'high': 23, 'feature': 'use', 'low': 169}
+{'high': 6, 'feature': 'poor', 'low': 88}
+{'high': 15, 'feature': 'page', 'low': 154}
+{'high': 1, 'feature': 'arnold', 'low': 0}
+{'high': 9, 'feature': 'govern', 'low': 71}
+{'high': 13, 'feature': 'point', 'low': 66}
+
+Accurancy: 0.999330506583
+
+Confusion Matrix:
+[2278, 3]
+[0, 2200]
+
+模型外预测：
+
+Epoch: 1
+
+100 most important features:
+great plan troll love lie polici excel amaz inspir money inform wast fantast good support must detail trump terrif hillari make sad easi peopl jail give see bore wonder can understand star will five just fiction run like secretari clinton die get america dont countri awesom delet talk laugh horribl show one noth terribl garbag better greatest go found super want help buy kain right comedi reveal frighten reviewkain verifi propaganda prospect messag im thank loot voter presid written new time tim actual bad govern issu real arnold cure constip tri rodham wait excit outlin didnt realli even poor saw 
+
+Accurancy: 0.984375
+
+Confusion Matrix:
+[199, 7]
+[0, 242]
+
+Epoch: 2
+
+100 most important features:
+great plan troll lie love polici amaz inspir money excel wast fantast support good inform trump must terrif detail make hillari sad see wonder easi jail peopl bore can give star will five loot clinton show understand horribl just like die dont talk run voter countri greatest get america help awesom delet secretari fiction buy frighten one terribl kain propaganda noth verifi better garbag found presid want go im new actual well prospect reveal written approv right thank tri issu wait tim instead benedict constip laugh know bad reviewkain time clintonkain cure govern even need realli work messag spread import 
+
+Accurancy: 0.96875
+
+Confusion Matrix:
+[214, 14]
+[0, 220]
+
+Epoch: 3
+
+100 most important features:
+great plan troll love lie polici inspir excel money wast fantast good inform amaz support must detail make terrif trump easi hillari sad jail peopl five bore see understand give will just die star can like wonder dont clinton america horribl secretari loot countri delet run fiction get buy found terribl propaganda go awesom one noth garbag frighten voter talk laugh reviewkain verifi show want issu kain presid better super real im comedi messag greatest actual reveal didnt written time bad prospect right point help rodham saw differ spread interest constip tim thank tri approv clintonkain know arnold realli well 
+
+Accurancy: 0.984375
+
+Confusion Matrix:
+[201, 7]
+[0, 240]
+
+Epoch: 4
+
+100 most important features:
+great plan troll love polici lie excel amaz wast support money inspir good fantast inform trump detail must make easi terrif hillari jail peopl see five understand star give can will horribl die america just clinton wonder secretari bore like loot sad countri get dont verifi talk show terribl delet found fiction buy run frighten awesom right garbag one tim laugh want voter help propaganda greatest noth better go reveal came didnt rodham written reviewkain real benedict new well cure messag im approv tri time realli point interest presid constip super comedi issu even instead arnold clintonkain lucif actual kain 
+
+Accurancy: 0.991071428571
+
+Confusion Matrix:
+[230, 4]
+[0, 214]
+
+Epoch: 5
+
+100 most important features:
+great plan lie troll love polici excel inspir money amaz good wast support fantast inform detail terrif make trump must sad hillari jail easi see peopl give bore five understand will star just loot wonder die clinton secretari can awesom garbag show america like countri terribl propaganda get voter buy horribl dont fiction run found reviewkain kain one verifi delet talk noth prospect want go greatest laugh tim right better point presid help im differ actual thank written realli tri time new super reveal didnt real use lead threw bad experi instead page saw approv govern rodham clintonkain think well 
+
+Accurancy: 0.96875
+
+Confusion Matrix:
+[223, 14]
+[0, 211]
+
+Epoch: 6
+
+100 most important features:
+great plan troll love polici lie excel amaz wast inspir good money fantast inform support make must trump detail terrif sad hillari easi see peopl give jail understand bore can will loot star just awesom like clinton five run countri verifi terribl found america dont wonder get propaganda secretari horribl voter die kain delet reviewkain one show buy go noth fiction talk want worst super garbag issu im right approv help greatest reveal time saw presid comedi interest new actual thank didnt instead rodham prospect hilari real threw cure realli page wait experi better everi point well written frighten differ 
+
+Accurancy: 0.973214285714
+
+Confusion Matrix:
+[231, 12]
+[0, 205]
+
+Epoch: 7
+
+100 most important features:
+great plan love troll lie polici excel money amaz inspir fantast support wast good inform trump must make detail jail hillari easi terrif bore peopl give can will sad clinton understand awesom countri wonder see star five fiction horribl get like show america just die secretari loot noth run buy garbag found dont delet terribl verifi one propaganda talk greatest reviewkain frighten go want laugh right help voter im comedi kain benedict super new real realli thank better written cure presid reveal messag time unabl prospect actual didnt use arnold tri experi page still well govern clintonkain even bad lead 
+
+Accurancy: 0.973214285714
+
+Confusion Matrix:
+[211, 12]
+[0, 225]
+
+Epoch: 8
+
+100 most important features:
+great plan love troll lie polici inspir amaz excel money wast support fantast inform good trump detail make must hillari jail easi five terrif sad bore see peopl give will just understand can wonder garbag star loot like die clinton show awesom dont get america buy horribl countri one delet secretari fiction found frighten verifi run go propaganda reviewkain better cure super talk messag greatest help im laugh terribl noth right presid want comedi new prospect reveal written kain voter time real differ saw rodham well didnt instead point unfavor arnold approv interest govern issu need realli poor decid tree 
+
+Accurancy: 0.979910714286
+
+Confusion Matrix:
+[217, 9]
+[0, 222]
+
+Epoch: 9
+
+100 most important features:
+great plan troll lie love polici amaz excel money wast inspir good fantast support trump must inform hillari make terrif detail jail easi five can peopl bore sad give star see will like die understand dont loot horribl awesom show just clinton wonder countri get secretari america one noth talk fiction garbag buy run found propaganda want laugh delet frighten voter terribl kain verifi help better go right super didnt messag saw actual new thank im reviewkain point prospect tim real reveal hilari govern realli time poor tree benedict presid issu constip clintonkain written tri import page arnold interest greatest 
+
+Accurancy: 0.988839285714
+
+Confusion Matrix:
+[227, 5]
+[0, 216]
+
+Epoch: 10
+
+100 most important features:
+great plan troll lie love polici excel amaz inspir money good wast fantast support inform make trump terrif hillari must detail jail easi bore sad can star peopl see five understand clinton loot give wonder will countri secretari horribl like just dont garbag show awesom buy america propaganda get voter die terribl delet reviewkain fiction one noth run found want verifi laugh talk go kain better help super right greatest written presid im prospect time instead realli reveal becom new didnt govern comedi rodham point thank well actual real messag saw worst tim bad tri clintonkain even cant threw issu 
+
+Accurancy: 0.993303571429
+
+Confusion Matrix:
+[240, 3]
+[0, 205]

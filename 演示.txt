@@ -1,0 +1,69 @@
+
+一、问题
+
+在美国大选中，两位候选人都著书立说，宣扬了自己的政治观点。网友对这两本书的态度如何呢？我们可以从亚马逊的书评中窥见一斑。
+
+在本文中，我们收集了希拉里和特朗普两本书从出版到大选之间的所有评论。我们从两本书的评论中挖掘出以下信息：
+
+1.希拉里和川普的书评分有什么差别？
+2.两本书评论的关注点有什么差别？
+3.两本书的读者是否在理性的发言？
+4.在greatagain中，好评和差评的关注点有什么差别？
+5.在blueprint中，好评和差评有什么不同？
+6.两本书的好评和差评有没有在理性发言？
+
+二、方法和结果
+
+第一步：从亚马逊网站上手动收集两本书的所有评论。
+（放亚马逊网站的截图）
+（放书评统计表和统计图）
+从上图中，我们发现，希拉里书的评论的平均分是xxx，86.78%的读者给出了一星差评，9.82%的读者给出了五星好评。相反，特朗普的评论平均分是xxx，11.85%的读者给出了一星差评，74.37%的读者给出了五星好评。说明在亚马逊上的读者对川普的评论高于对希拉里的评论。
+
+第二步：清洗数据
+1.分词
+2.将大写字母转换成小写字母
+3.清除标点符号
+4.清除数字
+5.清除网页链接
+6.清除英文停用词
+7.清除‘book’、‘read’、‘amazon’、‘review’等四个对本文分析没有意义的词语。
+8.单词词干化
+
+第三步：统计词频绘制词云
+（放特朗普和希拉里的词云和词频统计图）
+在特朗普的书评中，出现频率最高的15个词语分别是:trump, america, great, will, make, donald, like, countri, presid, get, can, peopl, want, good, need
+在希拉里的书评中，出现频率最高的15个词语分别是：hillari, clinton, just, will, like, lie, one, get, make, can, time, dont, money, peopl, star.
+在两者的书评中，候选人的名字都作成为了提到评论最高的词语，表示祈使预期的词语如 will, make, like, can都是两者书评中的常用词。在特朗普的评论中，出现了countri, presid等词语，这些词语没有出现在希拉里的评论中。在希拉里的评论中出现了lie, money等词语没有出现在特朗普的评论中。在特朗普的评论中，提到特朗普本人的概率大于在希拉里的评论中提到希拉里的概率。
+
+第四步：使用词袋模型和随机森林模型区分希拉里和川普的评论，找到在模型中重要性最大的30个词语并统计词频。
+词袋模型是一种常用的文本特征提取模型，参考文献是xxx
+随机森林模型是一种强大的机器学习算法，参考文献是xxx，它的好处在于不仅具有强大的分类能力，同时能够计算出不同的特征在模型中的重要程度。
+在本文中，我们使用词袋模型作为文本特征提取器，随机森林模型作为文本分类器。十折交叉验证准确率约为81%说明模型能很好的区分两本书的评论文本。
+在随机森林模型中重要性最大的30个词语在两书书评中的频率如下所示：
+（放比较图）
+在随机森林模型中重要性最大的30个特征分别是：trump, great, donald, hillari, man, excel, american, good, clinton, love, lie, mr, hes, easi, presid, delet, wast, enjoy, media, make, bore, money, interest, togeth, star, plan, amaz, just, countri, crippl
+其中，在特朗普的书评中出现频率高于希拉里的书评中出现频率的词语有：trump, great, donald, man, excel, american, good, love, mr, easi, presid, enjoy, media, make, interest, amaz, plan, countri, crippl.
+在希拉里的书评中出现频率高于川普的书评中出现频率的词语有：hillari, clinton, lie, hes, delet, wast, bore, money, togeth, star, just
+亚马逊中的读者对川普的的评论高于对希拉里的评论。
+
+第五步：使用VADER模型对文本进行情感分析。
+VADER模型是一种基于情感词库的情感分析方法，这个方法在xxx文章中提出，适用于解决网络文本的情感分析。我们使用VADER生成了每一条评论的情感得分。然后比较两本书情感得分的分布。
+（图）
+对川普的评论使用了更多的诠释积极情感词汇，更少的诠释中立情感的词汇和更少的诠释消极情感的词汇。对希拉里的评论使用了更少的诠释积极情感和中立情感的词汇和更多的诠释消极情感的词汇。
+
+第六步：使用和第三步和第四步类似的分析方法，分析对希拉里和川普的好评和差评之间有什么差别。
+首先，我们将打分大于等于4分的评论看作是好评，将打分小于等于3分的评论看作是差评，分别绘制了希拉里和川普的好评和差评词云。然后我们使用词袋模型和随机森林模型得到了希拉里和川普的好评和差评之间的差别图谱。
+（图）
+区分川普好评和差评最明显的30个词语是：terribl, wast, great, hate, garbag, poor, suck, trump, joke, content, aw, racist, money, writer, america, gag, ghost, didnt, think, univers, stink, never, ya, page, dont, love, given, hand, gift, sad
+在这其中，在好评中出现的频率大于在差评中出现频率的词语有：great, hate, trump, money, america, didnt, think, never, ya, page, dont, love, given, gift, sad
+在差评中出现频率大于在好评中出现频率的有：terribl, wast, garbag, poor, suck, joke, content, aw, racist, writer, gag, ghost, univers, stink, hand.
+区分希拉里好评和差评最明显的30个词语是：great, troll, plan, fantast, excel, polici, love, hillari, inspir, amaz, easi, detail, trump, good, terrif, make, inform, get, will, like, clinton, awesom, peopl, one, just, five, america, think, star, can
+在这其中，在好评中出现频率高于在差评中出现频率的词语有：troll, fantast, excel, amaz, easi, detail, terrif, awesom, five
+在差评中出现频率大于在好评中出现频率的有：great, plan, polici, hillari, inspir, trump, good, make, inform, get, will, like, clinton, peopl, one, just, america, think, star, can
+
+第七步：使用VADER对两本书的好评和差评分别进行情感分析。
+在两本书的评论中，好评都明显比差评表现了更多的积极情感，更少的中立情感和更少的消极情感。
+
+四、结论
+
+我们发现了3个主要的结论如下：1.对特朗普畅销书xxx的评论表现了更多诠释积极情感和领袖气质的词语，而对希拉里畅销书xxx的评论则包含了更多诠释阴谋论和消极情感的词语。2.比较xxx书的好评和差评，发现对该书的差评集中于攻击特朗普个人，比较xxx书的好评和差评，发现对该书的差评提到了希拉里的竞争对手和竞争对手的口号。3.使用VADER Sentiment Analysis分析书评中表达的情绪，相比较于xxx书（希拉里），xxx书（特朗普），诠释了更多的积极情感和更少的消极情感。4.比较两本书的好评和差评，发现在两本书中，好评都比差评诠释了更多的积极情感，但是在xxx（特朗普）的书评中，好评的积极情感更明显。

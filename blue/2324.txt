@@ -1,0 +1,1 @@
+       plan  destroy  countri save  money  time
